@@ -1,3 +1,8 @@
+Daftar Praktikum
+Praktikum 1 → branch praktikum-1
+Praktikum 3 → My Profile App (master)
+
+
 # My Profile App
 
 ## Deskripsi
